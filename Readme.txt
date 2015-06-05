@@ -1,0 +1,1 @@
+Il s'agit d'une proposition de mise à jour du plugin de surveillance des équipements permettant de réaliser du wake on lan

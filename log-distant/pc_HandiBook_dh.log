@@ -1,0 +1,14 @@
+Sys. de fichiers Taille Utilisé Dispo Uti% Monté sur
+/dev/mapper/root    20G     18G  1,2G  94% /
+dev                1,9G       0  1,9G   0% /dev
+run                1,9G    896K  1,9G   1% /run
+tmpfs              1,9G    264K  1,9G   1% /dev/shm
+tmpfs              1,9G       0  1,9G   0% /sys/fs/cgroup
+tmpfs              1,9G    228K  1,9G   1% /tmp
+/dev/sda3          477M     71M  377M  16% /boot
+/dev/sda2          196M     27M  170M  14% /boot/EFI
+/dev/sdb1           93M    1,6M   85M   2% /mnt/temp
+/dev/sdb2          812M    920K  753M   1% /mnt/home
+/dev/mapper/data    92G     66G   21G  76% /home
+tmpfs              385M     20K  385M   1% /run/user/1000
+
